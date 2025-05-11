@@ -2087,3 +2087,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:delete
 [11May2025 08:10:08.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdjeffrey7776 has made the advancement [Getting an Upgrade]
 [11May2025 08:13:16.833] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17adc966[id=<null>,name=XXGORDOBUUXX,properties={},legacy=false] (/127.107.219.72:37837) lost connection: Disconnected
 [11May2025 08:15:30.180] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@559c056a[id=<null>,name=XXGORDOBUUXX,properties={},legacy=false] (/127.107.219.72:59995) lost connection: Disconnected
+[11May2025 08:17:12.186] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68d2709d[id=<null>,name=XXGORDOBUUXX,properties={},legacy=false] (/127.107.219.72:44081) lost connection: Disconnected
+[11May2025 08:17:37.630] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@491fc8a[id=<null>,name=XXGORDOBUUXX,properties={},legacy=false] (/127.107.219.72:59197) lost connection: Disconnected
+[11May2025 08:17:43.441] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2f742ca5[id=<null>,name=XXGORDOBUUXX,properties={},legacy=false] (/127.107.219.72:50851) lost connection: Disconnected
+[11May2025 08:18:36.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xdjeffrey7776 lost connection: Disconnected
+[11May2025 08:18:36.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xdjeffrey7776 left the game
+[11May2025 08:18:45.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11May2025 08:18:45.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11May2025 08:18:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11May2025 08:18:45.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11May2025 08:18:45.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mipn]'/minecraft:overworld
+[11May2025 08:18:46.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mipn]'/minecraft:the_end
+[11May2025 08:18:46.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[Mipn]'/minecraft:the_nether
+[11May2025 08:18:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (Mipn): All chunks are saved
+[11May2025 08:18:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11May2025 08:18:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11May2025 08:18:46.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11May2025 08:18:46.463] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11May2025 08:18:46.464] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11May2025 08:18:46.466] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11May2025 08:18:46.467] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
