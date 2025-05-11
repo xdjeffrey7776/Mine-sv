@@ -2334,3 +2334,55 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_things_and_misc:delete
 [11May2025 20:04:53.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Stone Age]
 [11May2025 20:05:05.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Getting an Upgrade]
 [11May2025 20:09:44.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Acquire Hardware]
+[11May2025 20:11:49.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Monster Hunter]
+[11May2025 20:14:59.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Isn't It Iron Pick]
+[11May2025 20:17:26.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 was shot by Skeleton
+[11May2025 20:17:26.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Your First Grave]
+[11May2025 20:17:26.634] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
+[11May2025 20:17:48.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeffrey777766 was kicked for floating too long!
+[11May2025 20:17:48.010] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeffrey777766 lost connection: Disconnected
+[11May2025 20:17:48.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 left the game
+[11May2025 20:17:48.061] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 20:18:14.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeffrey777766[/127.158.63.203:49077] logged in with entity id 4246 at (53.1311396324437, 110.46026947021555, -15.089002234055066)
+[11May2025 20:18:14.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 joined the game
+[11May2025 20:19:48.211] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeffrey777766 lost connection: Disconnected
+[11May2025 20:19:48.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 left the game
+[11May2025 20:19:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11May2025 20:19:51.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11May2025 20:19:51.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11May2025 20:19:51.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11May2025 20:19:52.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/minecraft:overworld
+[11May2025 20:19:54.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:moon_orbit
+[11May2025 20:19:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:mars
+[11May2025 20:19:54.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/minecraft:the_end
+[11May2025 20:19:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:venus
+[11May2025 20:19:54.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:venus_orbit
+[11May2025 20:19:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:mars_orbit
+[11May2025 20:19:54.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/twilightforest:twilight_forest
+[11May2025 20:19:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:glacio
+[11May2025 20:19:54.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:glacio_orbit
+[11May2025 20:19:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/minecraft:the_nether
+[11May2025 20:19:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:earth_orbit
+[11May2025 20:19:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:mercury
+[11May2025 20:19:54.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:mercury_orbit
+[11May2025 20:19:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mipn]'/ad_astra:moon
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mipn): All chunks are saved
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[11May2025 20:19:54.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[11May2025 20:19:54.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11May2025 20:19:54.600] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11May2025 20:19:54.602] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11May2025 20:19:54.603] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[11May2025 20:19:54.604] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
