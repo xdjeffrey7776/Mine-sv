@@ -255,3 +255,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 02:50:42.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 joined the game
 [13May2025 02:56:57.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1558, l='ServerLevel[world]', x=759.62, y=63.00, z=-3025.95] died, message: 'Villager was slain by Zombie'
 [13May2025 02:57:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the time to 1000]
+[13May2025 03:09:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Ancient Treasure]
+[13May2025 03:09:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Acquired Taste]
+[13May2025 03:09:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Here Starts the Process]
+[13May2025 03:12:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Taste Of Time]

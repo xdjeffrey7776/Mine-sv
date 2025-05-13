@@ -7874,3 +7874,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 02:57:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the time to 1000]
 [13May2025 03:02:01.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13May2025 03:02:01.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 03:07:01.738] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 03:07:01.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 03:09:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Ancient Treasure]
+[13May2025 03:09:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Acquired Taste]
+[13May2025 03:09:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Here Starts the Process]
+[13May2025 03:12:01.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 03:12:01.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 03:12:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Taste Of Time]
+[13May2025 03:15:12.347] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/6307, l='ServerLevel[world]', x=734.52, y=73.48, z=-3092.58], dimensionLocationPath overworld
+[13May2025 03:15:12.897] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/6307, l='ServerLevel[world]', x=734.16, y=72.04, z=-3091.63, removed=DISCARDED]
+[13May2025 03:15:15.057] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.97, y=70.00, z=-3091.21], dimensionLocationPath overworld
+[13May2025 03:15:15.058] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.97, y=70.00, z=-3091.21] in list []
+[13May2025 03:15:17.356] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.16, y=70.00, z=-3090.96]
+[13May2025 03:15:22.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.38, y=70.00, z=-3090.74], dimensionLocationPath overworld
+[13May2025 03:15:22.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.38, y=70.00, z=-3090.74] in list []
+[13May2025 03:15:24.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.54, y=70.00, z=-3091.71]
