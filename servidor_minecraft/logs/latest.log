@@ -259,3 +259,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 03:09:25.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Acquired Taste]
 [13May2025 03:09:45.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Here Starts the Process]
 [13May2025 03:12:37.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Taste Of Time]
+[13May2025 03:17:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has completed the challenge [Fire Breather]
+[13May2025 03:23:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the weather to clear]
+[13May2025 03:25:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [A Glorious Feast]

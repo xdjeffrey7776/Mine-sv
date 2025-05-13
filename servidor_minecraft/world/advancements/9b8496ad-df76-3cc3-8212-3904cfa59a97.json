@@ -863,6 +863,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:00:23 +0000"
@@ -920,6 +926,12 @@
   "mcwbiomesoplenty:recipes/fir_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-13 03:16:09 +0000"
     },
     "done": true
   },
@@ -992,6 +1004,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-13 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/saccharine_rum_from_mead": {
+    "criteria": {
+      "has_mead": "2025-05-13 03:15:54 +0000"
     },
     "done": true
   },
@@ -1097,6 +1115,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/salty_folly_from_vodka": {
+    "criteria": {
+      "has_vodka": "2025-05-13 03:15:52 +0000"
+    },
+    "done": true
+  },
   "mcwbiomesoplenty:recipes/maple_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:00:23 +0000"
@@ -1118,6 +1142,12 @@
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-13 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/food/pizza_from_slices": {
+    "criteria": {
+      "has_slice": "2025-05-13 03:21:19 +0000"
     },
     "done": true
   },
@@ -1193,6 +1223,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/bloody_mary_from_vodka": {
+    "criteria": {
+      "has_vodka": "2025-05-13 03:15:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_kitchen_cabinetry": {
     "criteria": {
       "has_wooden_kitchen_cabinetry": "2025-05-13 03:07:20 +0000"
@@ -1235,6 +1271,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-05-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2025-05-13 03:03:21 +0000"
@@ -1244,6 +1286,12 @@
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-05-13 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-05-13 03:14:48 +0000"
     },
     "done": true
   },
@@ -1469,9 +1517,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-05-13 03:16:09 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/cooking/fiery_fondue_pot": {
+    "criteria": {
+      "has_cheese": "2025-05-13 03:17:09 +0000"
     },
     "done": true
   },
@@ -1586,6 +1646,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-05-13 02:59:32 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/cook_fiery_fondue": {
+    "criteria": {
+      "has_fiery_fondue_pot": "2025-05-13 03:17:22 +0000"
     },
     "done": true
   },
@@ -1721,6 +1787,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/canvas_from_canvas_rug": {
+    "criteria": {
+      "has_canvas_rug": "2025-05-13 03:20:34 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_oak_planks": "2025-05-13 03:03:21 +0000"
@@ -1730,6 +1802,12 @@
   "refurbished_furniture:recipes/misc/constructing/gray_cooler": {
     "criteria": {
       "has_planks": "2025-05-13 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/food/cheese": {
+    "criteria": {
+      "has_milk": "2025-05-13 03:16:09 +0000"
     },
     "done": true
   },
@@ -1904,6 +1982,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-05-13 03:03:21 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:main/ferment_cheese": {
+    "criteria": {
+      "has_unripe_flaxen_cheese_wheel": "2025-05-13 03:12:37 +0000"
     },
     "done": true
   },

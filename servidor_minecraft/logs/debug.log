@@ -7890,3 +7890,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 03:15:22.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.38, y=70.00, z=-3090.74], dimensionLocationPath overworld
 [13May2025 03:15:22.653] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.38, y=70.00, z=-3090.74] in list []
 [13May2025 03:15:24.304] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jeffrey777766'/1533, l='ServerLevel[world]', x=734.54, y=70.00, z=-3091.71]
+[13May2025 03:17:01.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 03:17:01.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 03:17:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has completed the challenge [Fire Breather]
+[13May2025 03:22:01.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13May2025 03:22:01.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13May2025 03:23:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the weather to clear]
+[13May2025 03:25:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [A Glorious Feast]
