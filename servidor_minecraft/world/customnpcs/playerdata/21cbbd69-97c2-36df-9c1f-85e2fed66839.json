@@ -1,0 +1,45 @@
+{
+    "QuestData": {
+        "ActiveQuests": [
+        ],
+        "CompletedQuests": [
+        ]
+    },
+    "jacket": 0,
+    "FactionData": [
+        {
+            "Faction": 0,
+            "Points": 2000
+        }
+    ],
+    "face": 0,
+    "ItemGiverChained": [
+    ],
+    "ScriptStoreddata": {
+    },
+    "hair": 0,
+    "ItemGiversList": [
+    ],
+    "TransportData": [
+    ],
+    "DialogData": [
+    ],
+    "PlayerCompanionId": 0,
+    "body": 0,
+    "isActive": 0b,
+    "bodyColor": 0,
+    "NpcsTimers": [
+    ],
+    "shoes": 0,
+    "leg": 0,
+    "PlayerName": "xxgordobuuxx",
+    "isMale": 0b,
+    "UUID": "21cbbd69-97c2-36df-9c1f-85e2fed66839",
+    "eyesColor": 0,
+    "MailData": [
+    ],
+    "BankData": [
+    ],
+    "peculiarities": [I;],
+    "hairColor": 0
+}

@@ -258,3 +258,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 05:07:23.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jeffrey777766 no longer a server operator
 [13May2025 05:08:05.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Sweet Dreams]
 [13May2025 05:09:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Getting an Upgrade]
+[13May2025 05:14:28.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Stone Age]
+[13May2025 05:14:35.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Acquire Hardware]
+[13May2025 05:16:00.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Isn't It Iron Pick]
+[13May2025 05:16:55.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Getting an Upgrade]
+[13May2025 05:17:33.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 was shot by Skeleton
+[13May2025 05:17:33.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Your First Grave]
+[13May2025 05:17:33.162] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
+[13May2025 05:18:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Not Today, Thank You]
+[13May2025 05:20:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [A Strange Grave Dust]
