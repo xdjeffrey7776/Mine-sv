@@ -1079,6 +1079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-13 03:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2025-05-13 03:30:14 +0000"
@@ -2237,6 +2243,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-13 03:42:43 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-13 03:00:23 +0000"
@@ -2288,6 +2300,12 @@
   "mcwbiomesoplenty:recipes/dead_windows": {
     "criteria": {
       "has_the_recipe": "2025-05-13 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-13 03:42:43 +0000"
     },
     "done": true
   },
