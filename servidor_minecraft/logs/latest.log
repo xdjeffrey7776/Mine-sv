@@ -262,3 +262,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 03:17:22.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has completed the challenge [Fire Breather]
 [13May2025 03:23:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the weather to clear]
 [13May2025 03:25:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [A Glorious Feast]
+[13May2025 03:30:23.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Bonfire Lit]
