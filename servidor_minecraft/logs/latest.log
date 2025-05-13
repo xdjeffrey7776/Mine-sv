@@ -298,3 +298,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 05:45:38.380] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
 [13May2025 05:46:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made jeffrey777766 a server operator
 [13May2025 05:46:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has reached the goal [Here They Come]
+[13May2025 05:51:06.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Diamonds!]
+[13May2025 06:01:29.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Teleported xxgordobuuxx to jeffrey777766]
+[13May2025 06:01:57.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 was blown up by Creeper
+[13May2025 06:01:57.442] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
+[13May2025 06:07:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Pic-A-Nic Basket?]
+[13May2025 06:09:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Ashes 'n Bones]
