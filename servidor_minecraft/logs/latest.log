@@ -267,3 +267,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 05:17:33.162] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
 [13May2025 05:18:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Not Today, Thank You]
 [13May2025 05:20:04.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [A Strange Grave Dust]
+[13May2025 05:20:55.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Knowledge of Death]
+[13May2025 05:20:55.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Quickly Applied]
+[13May2025 05:22:49.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Acquire Hardware]
+[13May2025 05:24:20.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Monster Hunter]
+[13May2025 05:25:18.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Suit Up]
+[13May2025 05:25:27.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx was slain by jeffrey777766
+[13May2025 05:25:27.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Your First Grave]
+[13May2025 05:25:27.282] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 05:25:29.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has reached the goal [Here They Come]
+[13May2025 05:25:35.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Knowledge raises the soul]
+[13May2025 05:25:52.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx was slain by Zombie
+[13May2025 05:25:52.187] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 05:26:01.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported xxgordobuuxx to jeffrey777766
+[13May2025 05:26:10.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported xxgordobuuxx to jeffrey777766
+[13May2025 05:26:19.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Knowledge of Death]
+[13May2025 05:26:19.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has reached the goal [Easy Opening]
+[13May2025 05:26:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Vanishing]
+[13May2025 05:29:03.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Suit Up]
+[13May2025 05:33:19.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Amateur Archaeologist]
+[13May2025 05:33:23.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Crops of the Wild]
+[13May2025 05:35:35.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx was doomed to fall
+[13May2025 05:35:35.488] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 05:35:51.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported xxgordobuuxx to jeffrey777766
+[13May2025 05:37:02.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Not Today, Thank You]
+[13May2025 05:39:29.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Isn't It Iron Pick]
