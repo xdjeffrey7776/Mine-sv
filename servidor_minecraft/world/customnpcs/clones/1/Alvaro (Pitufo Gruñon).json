@@ -1,0 +1,500 @@
+{
+    "TransformHasDisplay": 0b,
+    "AttackInvisible": 0b,
+    "IsStatue": 0b,
+    "AbsorptionAmount": 0.0f,
+    "SpawnCycle": 0,
+    "Accuracy": 60,
+    "MovingPatern": 0,
+    "HideBodyWhenKilled": 0b,
+    "TransformHasAdvanced": 0b,
+    "ReturnToStart": 1b,
+    "Weapons": [
+    ],
+    "NPCDialogOptions": [
+    ],
+    "ActiveRange": 32,
+    "Resistances": {
+        "Knockback": 1.0f,
+        "Explosion": 1.0f,
+        "Melee": 1.0f,
+        "Arrow": 1.0f
+    },
+    "FactionPoints": {
+        "DecreaseFaction2Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFaction1Points": 100,
+        "OptionFactions2": -1,
+        "OptionFactions1": -1,
+        "DecreaseFaction1Points": 0b
+    },
+    "ForgeCaps": {
+        "twilightforest:cap_shield": {
+            "tempshields": 0,
+            "permshields": 0
+        },
+        "mowziesmobs:last_damage": {
+        },
+        "mowziesmobs:frozen": {
+            "frozenWalkAnimPosition": 0.0f,
+            "frozen": 0b,
+            "frozenYawHead": 0.0f,
+            "prevFrozen": 0b,
+            "freezeProgress": 0.0f,
+            "frozenWalkAnimSpeed": 0.0f,
+            "frozenRenderYawOffset": 0.0f,
+            "freezeDecayDelay": 0,
+            "frozenYaw": 0.0f,
+            "frozenPitch": 0.0f,
+            "prevHasAI": 1b,
+            "frozenSwingProgress": 0.0f
+        },
+        "cataclysm:tentacle_cap": {
+            "getLastTentacleID": 0,
+            "hasTentacle": 0b
+        },
+        "mowziesmobs:living_cap": {
+        },
+        "cataclysm:charge_cap": {
+            "isCharge": 0b,
+            "dz": 0.0f,
+            "dx": 0.0f,
+            "KnockbackSpeed": 0.0f,
+            "ChargeTime": 0,
+            "timer": 0,
+            "ChargeDamage": 0.0f
+        },
+        "brewinandchewin:tipsy_numbed_hearts": {
+            "numbed_health": 0.0f,
+            "ticks_until_damage": 0
+        },
+        "cataclysm:hook_cap": {
+            "hasHook": 0b
+        },
+        "cataclysm:parry_cap": {
+            "frame": 0
+        },
+        "mowziesmobs:ability": {
+        },
+        "twilightforest:giant_pick_mine": {
+            "giantPickMining": 0L,
+            "giantPickBreaking": 0b,
+            "giantBlockConversion": 0
+        },
+        "brewinandchewin:raging": {
+            "stacks": 0,
+            "ticks_until_reset": 0
+        },
+        "mowziesmobs:frozen_cap": {
+            "frozenWalkAnimPosition": 0.0f,
+            "frozen": 0b,
+            "frozenYawHead": 0.0f,
+            "prevFrozen": 0b,
+            "freezeProgress": 0.0f,
+            "frozenWalkAnimSpeed": 0.0f,
+            "frozenRenderYawOffset": 0.0f,
+            "freezeDecayDelay": 0,
+            "frozenYaw": 0.0f,
+            "frozenPitch": 0.0f,
+            "prevHasAI": 1b,
+            "frozenSwingProgress": 0.0f
+        },
+        "curios:inventory": {
+            "Curios": [
+            ]
+        },
+        "cataclysm:render_rush_cap": {
+            "isRush": 0b,
+            "damage": 0.0f,
+            "timer": 0
+        },
+        "twilightforest:cap_thrown": {
+            "throwZ": 0.0d,
+            "throwX": 0.0d,
+            "throwCooldown": 0,
+            "yetiThrown": 0b,
+            "throwY": 0.0d
+        }
+    },
+    "CloakTexture": "",
+    "OverlayGlowing": 1b,
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "pSize": 5,
+    "BossColor": 0,
+    "BossBar": 0b,
+    "MovingState": 0,
+    "MovingPause": 1b,
+    "FireRate": 5,
+    "OnAttack": 0,
+    "pArea": 0,
+    "GroundSound": "minecraft:block.stone.break",
+    "pRender3D": 1b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "Scripts": [
+    ],
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "ShowName": 0,
+    "LinkedNpcName": "",
+    "LootMode": 0,
+    "Armor": [
+    ],
+    "CanSprint": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ReactsToFire": 0b,
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "SkinUrl": "https://t.novaskin.me/c1356f41acb896c8be27b714da5afd4cef2f157ee862eaa9abdd5e707f8181b8",
+    "PotionEffect": 0,
+    "IgnoreCobweb": 0b,
+    "ModRev": 18,
+    "KilledTime": 0L,
+    "TransformHasRole": 0b,
+    "DropChance": [
+    ],
+    "MoveSpeed": 5,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "Fire": -1s,
+    "CombatRegen": 0,
+    "WalkingRange": 10,
+    "PositionOffsetZ": 5.0f,
+    "DeathTime": 0s,
+    "CanDrown": 1b,
+    "pStick": 0b,
+    "pDamage": 4,
+    "Orientation": 0,
+    "StandingState": 0,
+    "BlueprintTrackedData": [
+        {
+            "Boolean": 0b,
+            "Id": "savage_and_ravage:invisible_due_to_mask"
+        }
+    ],
+    "OnGround": 1b,
+    "AggroRange": 16,
+    "MaxFiringRange": 15,
+    "pEffect": 0,
+    "HitSound": "minecraft:entity.arrow.hit",
+    "pPhysics": 1b,
+    "TransformHasJob": 0b,
+    "CanLeap": 0b,
+    "Attributes": [
+        {
+            "Name": "minecraft:generic.follow_range",
+            "Base": 32.0d
+        },
+        {
+            "Name": "minecraft:generic.max_health",
+            "Base": 20.0d
+        },
+        {
+            "Name": "minecraft:generic.knockback_resistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "minecraft:generic.attack_damage",
+            "Base": 5.0d
+        },
+        {
+            "Name": "minecraft:generic.movement_speed",
+            "Base": 0.25d
+        },
+        {
+            "Name": "forge:step_height_addition",
+            "Base": 0.0d
+        },
+        {
+            "Name": "minecraft:generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge:entity_gravity",
+            "Base": 0.08d
+        },
+        {
+            "Name": "forge:swim_speed",
+            "Base": 8.0d
+        },
+        {
+            "Name": "minecraft:generic.flying_speed",
+            "Base": 0.5d
+        }
+    ],
+    "FactionID": 0,
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "Name": "Alvaro (Pitufo Gruñon)",
+    "NpcAngrySound": "",
+    "VisibleAvailability": {
+        "AvailabilityScoreboardObjective": "",
+        "AvailabilityDialog3Id": -1,
+        "AvailabilityFaction2Stance": 0,
+        "AvailabilityDialog4": 0,
+        "AvailabilityQuest2": 0,
+        "AvailabilityFaction": 0,
+        "AvailabilityDialog2Id": -1,
+        "AvailabilityQuest3Id": -1,
+        "AvailabilityQuest": 0,
+        "AvailabilityMinPlayerLevel": 0,
+        "AvailabilityQuest4Id": -1,
+        "AvailabilityQuest2Id": -1,
+        "AvailabilityDialog3": 0,
+        "AvailabilityDayTime": 0,
+        "AvailabilityScoreboard2Type": 1,
+        "AvailabilityScoreboard2Objective": "",
+        "AvailabilityDialog": 0,
+        "AvailabilityDialog4Id": -1,
+        "AvailabilityQuestId": -1,
+        "AvailabilityDialogId": -1,
+        "AvailabilityScoreboardType": 1,
+        "AvailabilityDialog2": 0,
+        "AvailabilityQuest3": 0,
+        "AvailabilityQuest4": 0,
+        "AvailabilityFactionId": -1,
+        "AvailabilityFactionStance": 0,
+        "AvailabilityFaction2": 0,
+        "AvailabilityScoreboardValue": 1,
+        "AvailabilityFaction2Id": -1,
+        "AvailabilityScoreboard2Value": 1,
+        "ModRev": 18
+    },
+    "npcInteracting": 1b,
+    "FindShelter": 2,
+    "NpcStepSound": "",
+    "HurtByTimestamp": 23965,
+    "AttackStrenght": 5,
+    "ScriptEnabled": 0b,
+    "HealthRegen": 1,
+    "pXlr8": 0b,
+    "MovementType": 0,
+    "FireIndirect": 0,
+    "CitadelData": {
+    },
+    "Size": 5,
+    "Role": 0,
+    "DoorInteract": 2,
+    "DirectLOS": 1b,
+    "TransformIsActive": 0b,
+    "SkinColor": 16777215,
+    "PositionOffsetX": 5.0f,
+    "NoFallDamage": 0b,
+    "BurstCount": 1,
+    "TransformHasAI": 0b,
+    "AttackRange": 2,
+    "pSpeed": 10,
+    "pTrail": 0,
+    "id": "customnpcs:customnpc",
+    "Title": "",
+    "pGlows": 0b,
+    "HurtTime": 0s,
+    "AttackSpeed": 20,
+    "FallFlying": 0b,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "GlowTexture": "",
+    "MountControl": 0b,
+    "MaxExp": 0,
+    "CanUpdate": 1b,
+    "AimWhileShooting": 0b,
+    "pImpact": 0,
+    "ImmuneToFire": 0b,
+    "DisablePitch": 0b,
+    "LeftHanded": 0b,
+    "minDelay": 20,
+    "MoveState": 0,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Song": "",
+                "Slot": 0,
+                "Line": "Hello @p"
+            }
+        ]
+    },
+    "DefendFaction": 0b,
+    "Invulnerable": 0b,
+    "NpcJob": 0,
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "NpcIdleSound": "",
+    "NpcInv": [
+    ],
+    "AttackOtherFactions": 0b,
+    "pSpin": 0b,
+    "TransformEditingModus": 0b,
+    "pDur": 5,
+    "NpcVisible": 0,
+    "NpcsTimers": [
+    ],
+    "stopAndInteract": 1b,
+    "MovingPos": 0,
+    "KnockBack": 0,
+    "RespawnTime": 20,
+    "OrderedLines": 0b,
+    "ShotCount": 1,
+    "PotionAmp": 0,
+    "maxDelay": 40,
+    "ScriptLanguage": "ECMAScript",
+    "MarkovGeneratorId": 5,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CanPickUpLoot": 0b,
+    "PotionImmune": 0b,
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "PersistenceRequired": 0b,
+    "NpcModelData": {
+        "ExtraData": {
+        },
+        "HeadConfig": {
+            "TransY": 0.22826086f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "LastEdited": 1747108740956L,
+        "Legs2Config": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "ArmsConfig": {
+            "TransY": 0.20380434f,
+            "ScaleY": 0.8043478f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "MoveAnimation": 16,
+        "ModelType": 0,
+        "BodyConfig": {
+            "TransY": 0.22826086f,
+            "ScaleY": 0.6956522f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "NewParts": [
+        ],
+        "Animation": 0,
+        "WingMode": 0,
+        "LegsConfig": {
+            "TransY": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        },
+        "SimpleRender": 0b,
+        "Parts": [
+        ],
+        "DisplayName": "",
+        "CustomSkinUrl": "",
+        "Arms2Config": {
+            "TransY": 0.20380434f,
+            "ScaleY": 0.8043478f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "ScaleX": 1.0f,
+            "NotShared": 0b,
+            "TransZ": 0.0f
+        }
+    },
+    "NoLivingAnimation": 0b,
+    "BurnInSun": 0b,
+    "TransformHasStats": 0b,
+    "CreatureType": 0,
+    "PotionDuration": 5,
+    "pEffAmp": 0,
+    "TotalTicksAlive": 173637L,
+    "Brain": {
+        "memories": {
+        }
+    },
+    "TransformHasInv": 0b,
+    "MinExp": 0,
+    "Rotation": [
+        142.02734f,
+        -40.0f
+    ],
+    "Texture": "customnpcs:textures/entity/humanmale/mcdsteve.png",
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "DistanceToMelee": 0,
+    "PositionOffsetY": 5.0f,
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "Air": 300s,
+    "AvoidsSun": 0b,
+    "AvoidsWater": 0b,
+    "MarkovGender": 0,
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "FallDistance": 0.0f,
+    "CanSwim": 1b,
+    "MaxHealth": 20,
+    "Health": 20.0f,
+    "UsingSkinUrl": 2b,
+    "PortalCooldown": 0,
+    "ad_astra_giselle_addon": {
+        "ad_astra_giselle_addon:proof_duration": {
+            "ad_astra_giselle_addon:hot_temperature": 0,
+            "ad_astra_giselle_addon:acid_rain": 0,
+            "ad_astra_giselle_addon:gravity": 0,
+            "ad_astra_giselle_addon:oxygen": 0
+        }
+    }
+}

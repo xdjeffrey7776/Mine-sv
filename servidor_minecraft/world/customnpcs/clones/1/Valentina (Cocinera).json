@@ -162,7 +162,7 @@
         "Lines": [
         ]
     },
-    "SkinUrl": "",
+    "SkinUrl": "https://t.novaskin.me/d0b295262ab5d2e65d62810bd7e3e7092d924e6a9389948010d38ffad1b04ffe",
     "PotionEffect": 0,
     "ModRev": 18,
     "IgnoreCobweb": 0b,
@@ -238,44 +238,44 @@
     "CanLeap": 0b,
     "Attributes": [
         {
-            "Name": "minecraft:generic.knockback_resistance",
-            "Base": 0.0d
-        },
-        {
-            "Name": "forge:step_height_addition",
-            "Base": 0.0d
+            "Name": "minecraft:generic.follow_range",
+            "Base": 32.0d
         },
         {
             "Name": "minecraft:generic.max_health",
             "Base": 20.0d
         },
         {
-            "Name": "forge:entity_gravity",
-            "Base": 0.08d
+            "Name": "minecraft:generic.knockback_resistance",
+            "Base": 0.0d
         },
         {
             "Name": "minecraft:generic.attack_damage",
             "Base": 5.0d
         },
         {
-            "Name": "minecraft:generic.armor",
-            "Base": 0.0d
-        },
-        {
-            "Name": "minecraft:generic.flying_speed",
-            "Base": 0.5d
-        },
-        {
             "Name": "minecraft:generic.movement_speed",
             "Base": 0.25d
         },
         {
-            "Name": "minecraft:generic.follow_range",
-            "Base": 32.0d
+            "Name": "forge:step_height_addition",
+            "Base": 0.0d
+        },
+        {
+            "Name": "minecraft:generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge:entity_gravity",
+            "Base": 0.08d
         },
         {
             "Name": "forge:swim_speed",
             "Base": 8.0d
+        },
+        {
+            "Name": "minecraft:generic.flying_speed",
+            "Base": 0.5d
         }
     ],
     "FactionID": 0,
@@ -322,7 +322,7 @@
     "FindShelter": 2,
     "TraderIgnoreNBT": 0b,
     "NpcStepSound": "",
-    "HurtByTimestamp": 6683,
+    "HurtByTimestamp": 3074,
     "AttackStrenght": 5,
     "ScriptEnabled": 0b,
     "HealthRegen": 1,
@@ -365,6 +365,86 @@
     "DisablePitch": 0b,
     "TraderSold": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:mutton",
+                "Count": 16b
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:apple",
+                "Count": 8b
+            },
+            {
+                "Slot": 2b,
+                "id": "farmersdelight:hot_cocoa",
+                "Count": 1b
+            },
+            {
+                "Slot": 3b,
+                "id": "minecraft:cooked_mutton",
+                "Count": 16b
+            },
+            {
+                "Slot": 4b,
+                "id": "minecraft:carrot",
+                "Count": 1b
+            },
+            {
+                "Slot": 5b,
+                "id": "minecraft:enchanted_golden_apple",
+                "Count": 1b
+            },
+            {
+                "Slot": 6b,
+                "id": "minecraft:beef",
+                "Count": 8b
+            },
+            {
+                "Slot": 7b,
+                "id": "minecraft:bread",
+                "Count": 8b
+            },
+            {
+                "Slot": 8b,
+                "id": "brewinandchewin:pizza",
+                "Count": 1b
+            },
+            {
+                "Slot": 9b,
+                "id": "minecraft:cooked_beef",
+                "Count": 8b
+            },
+            {
+                "Slot": 10b,
+                "id": "minecraft:rabbit",
+                "Count": 8b
+            },
+            {
+                "Slot": 11b,
+                "id": "farmersdelight:roast_chicken_block",
+                "Count": 1b
+            },
+            {
+                "Slot": 12b,
+                "id": "minecraft:chicken",
+                "Count": 8b
+            },
+            {
+                "Slot": 13b,
+                "id": "minecraft:cooked_rabbit",
+                "Count": 8b
+            },
+            {
+                "Slot": 15b,
+                "id": "minecraft:cooked_chicken",
+                "Count": 9b
+            },
+            {
+                "Slot": 16b,
+                "id": "minecraft:golden_apple",
+                "Count": 2b
+            }
         ]
     },
     "LeftHanded": 0b,
@@ -407,7 +487,7 @@
     "PotionAmp": 0,
     "maxDelay": 40,
     "ScriptLanguage": "ECMAScript",
-    "MarkovGeneratorId": 0,
+    "MarkovGeneratorId": 8,
     "Motion": [
         0.0d,
         -0.0784000015258789d,
@@ -493,7 +573,7 @@
     "CreatureType": 0,
     "PotionDuration": 5,
     "pEffAmp": 0,
-    "TotalTicksAlive": 21324L,
+    "TotalTicksAlive": 255770L,
     "Brain": {
         "memories": {
         }
@@ -504,13 +584,93 @@
         -179.04272f,
         0.0f
     ],
-    "Texture": "customnpcs:textures/entity/nagafemale/claire.png",
+    "Texture": "customnpcs:textures/entity/humanmale/steve.png",
     "NpcKilledLines": {
         "Lines": [
         ]
     },
     "TraderCurrency": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 28b
+            },
+            {
+                "Slot": 1b,
+                "id": "coins_o_plenty:iron_coin",
+                "Count": 5b
+            },
+            {
+                "Slot": 2b,
+                "id": "coins_o_plenty:gold_coin",
+                "Count": 1b
+            },
+            {
+                "Slot": 3b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 36b
+            },
+            {
+                "Slot": 4b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 1b
+            },
+            {
+                "Slot": 5b,
+                "id": "coins_o_plenty:netherite_coin",
+                "Count": 5b
+            },
+            {
+                "Slot": 6b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 20b
+            },
+            {
+                "Slot": 7b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 12b
+            },
+            {
+                "Slot": 8b,
+                "id": "coins_o_plenty:diamond_coin",
+                "Count": 1b
+            },
+            {
+                "Slot": 9b,
+                "id": "coins_o_plenty:copper_coin",
+                "Count": 28b
+            },
+            {
+                "Slot": 10b,
+                "id": "coins_o_plenty:iron_coin",
+                "Count": 5b
+            },
+            {
+                "Slot": 11b,
+                "id": "coins_o_plenty:gold_coin",
+                "Count": 40b
+            },
+            {
+                "Slot": 12b,
+                "id": "coins_o_plenty:iron_coin",
+                "Count": 3b
+            },
+            {
+                "Slot": 13b,
+                "id": "coins_o_plenty:iron_coin",
+                "Count": 9b
+            },
+            {
+                "Slot": 15b,
+                "id": "coins_o_plenty:iron_coin",
+                "Count": 6b
+            },
+            {
+                "Slot": 16b,
+                "id": "coins_o_plenty:gold_coin",
+                "Count": 5b
+            }
         ]
     },
     "NpcKillLines": {
@@ -528,13 +688,13 @@
     "Air": 300s,
     "AvoidsSun": 0b,
     "AvoidsWater": 0b,
-    "MarkovGender": 0,
+    "MarkovGender": 2,
     "NpcHurtSound": "minecraft:entity.player.hurt",
     "FallDistance": 0.0f,
     "CanSwim": 1b,
     "MaxHealth": 20,
     "Health": 20.0f,
-    "UsingSkinUrl": 0b,
+    "UsingSkinUrl": 2b,
     "PortalCooldown": 0,
     "ad_astra_giselle_addon": {
         "ad_astra_giselle_addon:proof_duration": {
