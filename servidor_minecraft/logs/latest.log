@@ -304,3 +304,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 06:01:57.442] [Server thread/INFO] [tombstone/]: The player jeffrey777766 has successfully been saved
 [13May2025 06:07:47.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [Pic-A-Nic Basket?]
 [13May2025 06:09:02.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [Ashes 'n Bones]
+[13May2025 06:11:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [A Strange Grave Dust]
+[13May2025 06:12:00.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the weather to clear]
+[13May2025 06:14:33.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx was shot by Skeleton
+[13May2025 06:14:33.298] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 06:21:55.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx drowned
+[13May2025 06:21:55.890] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 06:22:17.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Teleported jeffrey777766 to xxgordobuuxx]
+[13May2025 06:22:22.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Creative Mode]
+[13May2025 06:22:28.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Survival Mode]
+[13May2025 06:22:34.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has made the advancement [The Most Useful Key]
+[13May2025 06:22:37.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [The Most Useful Key]
+[13May2025 06:22:46.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has reached the goal [A Fast Comeback]
+[13May2025 06:23:04.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 has reached the goal [Discreet Search]
+[13May2025 06:23:14.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Creative Mode]
+[13May2025 06:23:21.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Survival Mode]
+[13May2025 06:23:30.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Creative Mode]
+[13May2025 06:23:43.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Survival Mode]
+[13May2025 06:24:02.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set own game mode to Creative Mode]
+[13May2025 06:24:31.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx has made the advancement [We do a little trolling...]
+[13May2025 06:24:35.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx drowned whilst trying to escape Kangaroo
+[13May2025 06:24:35.032] [Server thread/INFO] [tombstone/]: The player xxgordobuuxx has successfully been saved
+[13May2025 06:24:38.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=705, y=65, z=-3039}
+[13May2025 06:25:29.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jeffrey777766 lost connection: Disconnected
+[13May2025 06:25:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 left the game
+[13May2025 06:30:35.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xxgordobuuxx lost connection: Disconnected
+[13May2025 06:30:35.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xxgordobuuxx left the game

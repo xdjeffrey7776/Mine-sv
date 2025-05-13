@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-05-13 06:13:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_spruce_planks": "2025-05-13 05:14:02 +0000"
@@ -284,6 +290,12 @@
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-05-13 05:09:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-13 06:11:56 +0000"
     },
     "done": true
   },
@@ -1223,6 +1235,12 @@
     },
     "done": true
   },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_the_recipe": "2025-05-13 06:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-13 05:14:02 +0000"
@@ -1643,6 +1661,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-13 06:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-13 05:28:47 +0000"
@@ -1724,6 +1748,18 @@
   "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-05-13 05:16:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-13 06:13:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-13 06:24:31 +0000"
     },
     "done": true
   },
@@ -1856,6 +1892,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-05-13 05:55:25 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-05-13 06:13:43 +0000"
     },
     "done": true
   },
@@ -2445,7 +2487,8 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-05-13 06:01:47 +0000",
-      "mediterranean_forest": "2025-05-13 05:07:20 +0000"
+      "mediterranean_forest": "2025-05-13 05:07:20 +0000",
+      "crag": "2025-05-13 06:11:17 +0000"
     },
     "done": false
   },
@@ -3492,6 +3535,7 @@
       "minecraft:beach": "2025-05-13 06:01:29 +0000",
       "minecraft:lukewarm_ocean": "2025-05-13 06:04:56 +0000",
       "minecraft:river": "2025-05-13 05:08:25 +0000",
+      "minecraft:windswept_savanna": "2025-05-13 06:11:23 +0000",
       "minecraft:savanna": "2025-05-13 06:02:05 +0000"
     },
     "done": false
@@ -3600,6 +3644,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-13 06:13:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-05-13 05:40:56 +0000"
@@ -3615,6 +3665,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_cooler": {
     "criteria": {
       "has_planks": "2025-05-13 05:09:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-13 06:22:37 +0000"
     },
     "done": true
   },
@@ -3675,6 +3731,12 @@
   "refurbished_furniture:recipes/misc/constructing/purple_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-05-13 05:22:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-13 06:09:02 +0000"
     },
     "done": true
   },
