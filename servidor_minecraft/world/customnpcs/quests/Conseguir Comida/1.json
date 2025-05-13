@@ -16,10 +16,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleterNpc": "",
+    "CompleterNpc": "Yamely",
     "NextQuestId": -1,
     "CompleteText": "",
-    "Text": "",
+    "Text": "Me puedes traer comidita? :D",
     "QuestMail": {
         "Subject": "",
         "MailQuest": -1,
@@ -30,13 +30,23 @@
         "Message": {
         },
         "Time": 0L,
-        "TimePast": 1747110856558L
+        "TimePast": 1747111209311L
     },
     "RandomReward": 0b,
     "Title": "Trigo y papa",
     "IgnoreDamage": 0b,
     "Items": {
         "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:wheat",
+                "Count": 64b
+            },
+            {
+                "Slot": 1b,
+                "id": "minecraft:potato",
+                "Count": 64b
+            }
         ]
     },
     "QuestRepeat": 0,
