@@ -253,3 +253,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [13May2025 02:50:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 left the game
 [13May2025 02:50:42.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jeffrey777766[/127.158.63.203:58385] logged in with entity id 1533 at (742.588772914473, 63.0, -3046.7070024143)
 [13May2025 02:50:42.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jeffrey777766 joined the game
+[13May2025 02:56:57.657] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1558, l='ServerLevel[world]', x=759.62, y=63.00, z=-3025.95] died, message: 'Villager was slain by Zombie'
+[13May2025 02:57:52.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [jeffrey777766: Set the time to 1000]
